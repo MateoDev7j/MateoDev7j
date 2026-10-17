@@ -3,7 +3,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:080D18,50:102844,100:1678A5&text=MATEO.DEV&fontColor=F3F7FF&fontSize=52&fontAlignY=43&desc=SOFTWARE%20DEVELOPMENT%20%2F%20DIGITAL%20WORKSHOP&descSize=13&descAlignY=68&animation=fadeIn" width="100%" alt="Mateo Dev profile banner"/>
+<img src="./banner.gif"
+       width="100%"
+       alt="Banner animado de Mateo Daniel">
 
 <br/>
 
