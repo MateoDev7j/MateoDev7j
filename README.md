@@ -42,10 +42,10 @@ I enjoy understanding how applications work, solving problems step by step, and 
 
 | Area | Technologies |
 |---|---|
-| Programming | Java |
-| Web | HTML, CSS |
+| Programming | Java, Php, C++ |
+| Web | HTML, CSS, Javascript |
 | Databases | SQL, relational database design |
-| Tools | Git, GitHub, VS Code |
+| Tools | Git, GitHub, VS Code, Phpstorm, Netbeans |
 | Currently learning | JavaScript and backend development |
 
 ---
