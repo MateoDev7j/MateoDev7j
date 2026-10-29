@@ -89,7 +89,7 @@ Technical notes and practical work exploring computer systems and development to
 ## `05 / GITHUB ACTIVITY`
 
 <div align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Snake Game" />
+  <img src="https://raw.githubusercontent.com/MateoDev7j/MateoDev7j/output/github-snake-dark.svg" alt="GitHub Snake Game" />
 </div>
 
 <div align="center">
