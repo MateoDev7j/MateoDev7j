@@ -90,9 +90,9 @@ Technical notes and practical work exploring computer systems and development to
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MateoDev7j&show_icons=true&hide_border=true&bg_color=0B1220&title_color=70C8FF&icon_color=70C8FF&text_color=D8E2F0&rank_icon=github" width="100%" alt="GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=MateoDev7j&show_icons=true&hide_border=true&bg_color=0B1220&title_color=70C8FF&icon_color=70C8FF&text_color=D8E2F0&rank_icon=github" width="100%" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoDev7j&layout=compact&hide_border=true&bg_color=0B1220&title_color=70C8FF&text_color=D8E2F0" width="100%" alt="Most used programming languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MateoDev7j&layout=compact&hide_border=true&bg_color=0B1220&title_color=70C8FF&text_color=D8E2F0" width="100%" alt="Most used programming languages"/>
 
 </div>
 
