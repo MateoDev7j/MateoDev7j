@@ -89,6 +89,10 @@ Technical notes and practical work exploring computer systems and development to
 ## `05 / GITHUB ACTIVITY`
 
 <div align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Snake Game" />
+</div>
+
+<div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=MateoDev7j&show_icons=true&hide_border=true&bg_color=0B1220&title_color=70C8FF&icon_color=70C8FF&text_color=D8E2F0&rank_icon=github" width="100%" alt="GitHub statistics"/>
 
